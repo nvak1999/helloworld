@@ -1,10 +1,10 @@
-## Intro to Github and netlify
+# Intro to Github and netlify
 
 ---
 
-# A learning project @coderschool.vn
+## A learning project @coderschool.vn
 
-## Nguyen Vu An Khuong
+# Nguyen Vu An Khuong
 
 1. Create Github repo
 2. Add project's README using Markdown
